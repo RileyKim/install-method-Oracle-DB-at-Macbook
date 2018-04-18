@@ -64,7 +64,7 @@
 
 
 
-![](/Users/TaekSu/Desktop/JavaDataGit/Mac and OracleDB/images/스크린샷 2018-04-17 오후 11.53.02.png)
+![](https://github.com/Taeksu89/install-method-Oracle-DB-at-Macbook/blob/master/images/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202018-04-17%20%EC%98%A4%ED%9B%84%2011.33.44.png)
 
 
 
